@@ -37,10 +37,10 @@ RESEARCH METHODOLOGY -:
 
 
 ### Dashboard Using Tableau
-![image](https://github.com/MUSKAN1903/Happy-Nations-Happy-Lives/assets/70433658/f4f1a4ea-4fb3-48cf-950c-07fde2b53726)
+![image](https://github.com/MUSKAN1903/Happy-Nations-Happy-Lives/assets/70433658/e4a08011-4b27-44df-993f-fdbd38b04583)
 ### Which Model Works the Best?
 Polynomial Regression Model works the best, as it has the highest Accuracy Score and the least  mean absolute error and mean square error.
-![image](https://github.com/MUSKAN1903/Happy-Nations-Happy-Lives/assets/70433658/e4a08011-4b27-44df-993f-fdbd38b04583)
+![image](https://github.com/MUSKAN1903/Happy-Nations-Happy-Lives/assets/70433658/f4f1a4ea-4fb3-48cf-950c-07fde2b53726)
 
 # CONCLUSION -:
 -	The Top 10 happiest countries are Finland, Denmark, Switzerland, Iceland, Norway, Netherlands, Sweden, New Zealand, Canada, Australia.

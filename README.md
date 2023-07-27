@@ -32,7 +32,7 @@ RESEARCH METHODOLOGY -:
 - In this analysis, we used secondary data from the world’s largest data science community Kaggle. We took the data for years 2015, 2016, 2017 and 2020, 2021. We classified them into two different eras, pre covid and mid covid namely. At first all the 5 different csv files were combined using Knime analytics platform and data cleaning was performed to make the data ready for Predictions using Regression Machine Learning models. All the clean data was then integrated with tableau to make interactive and meaningful visualizations.
 
 ![image](https://github.com/MUSKAN1903/Happy-Nations-Happy-Lives/assets/70433658/191a1336-b214-458e-a918-9df562103a62) 
-![image](https://github.com/MUSKAN1903/Happy-Nations-Happy-Lives/assets/70433658/3c6de490-ad8f-41ad-a13f-a9ca1dae256f)![image](https://github.com/MUSKAN1903/Happy-Nations-Happy-Lives/assets/70433658/9fbb3e1a-1685-4f66-8500-d2ee37760454)
+- ![image](https://github.com/MUSKAN1903/Happy-Nations-Happy-Lives/assets/70433658/3c6de490-ad8f-41ad-a13f-a9ca1dae256f)![image](https://github.com/MUSKAN1903/Happy-Nations-Happy-Lives/assets/70433658/9fbb3e1a-1685-4f66-8500-d2ee37760454)
 
 
 

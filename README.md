@@ -45,7 +45,7 @@ Polynomial Regression Model works the best, as it has the highest Accuracy Score
 ## CONCLUSION -:
 -	The Top 10 happiest countries are Finland, Denmark, Switzerland, Iceland, Norway, Netherlands, Sweden, New Zealand, Canada, Australia.
 -	The features Economic production, social support, life expectancy, freedom, absence of corruption, generosity and dystopia residual accumulate the Happiness Score.
--	There was no significant change in Happiness Score in the pre covid and mid covid era.
+-	There was no significant change in Happiness Score in the pre covid and mid covid era overall for all countries but for some countries change can be noticed.
 -	Afghanistan had an happiness score of 0 in the year 2021.
 -	Polynomial Regression Model works the best, as it has the highest Accuracy Score and the least mean absolute error and mean square error.
 
